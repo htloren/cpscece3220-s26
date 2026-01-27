@@ -7,7 +7,7 @@
 int main(int argc, char **argv)
 {
     int x = 7;
-    execl("/usr/bin/lsx", "ls", "-a", "-l", NULL);
+    execl("/usr/bin/ls", "ls", "-a", "-l", NULL);
     perror("exec failed");
     x++;
     printf("%d\n", x);
