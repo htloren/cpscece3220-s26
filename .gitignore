@@ -18,3 +18,12 @@ processes/exec4
 processes/zombies
 processes/popen
 processes/ptrace_example
+
+ipc/signals
+ipc/named_pipe_sender
+ipc/named_pipe_recver
+ipc/shmem
+ipc/shmem2
+ipc/msgpassingserver
+ipc/msgpassingclient
+ipc/socket_server
