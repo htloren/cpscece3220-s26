@@ -39,4 +39,8 @@ threads/sem
 threads/bank/mybank
 threads/barriers
 
+project2/contextfun
+project2/funcptr
+project2/makecontext_example
+
 *.o
